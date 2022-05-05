@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  HomeWork10
-//
-//  Created by Onix qq on 5.05.22.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
